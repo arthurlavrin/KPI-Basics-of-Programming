@@ -1,0 +1,38 @@
+C:\Users\Maksym Archybasov\Documents\Visual Studio 2017\Projects\Lab5(Form)\Lab5(Form)\bin\Debug\Lab5(Form).exe.config
+C:\Users\Maksym Archybasov\Documents\Visual Studio 2017\Projects\Lab5(Form)\Lab5(Form)\bin\Debug\Lab5(Form).exe
+C:\Users\Maksym Archybasov\Documents\Visual Studio 2017\Projects\Lab5(Form)\Lab5(Form)\bin\Debug\Lab5(Form).pdb
+C:\Users\Maksym Archybasov\Documents\Visual Studio 2017\Projects\Lab5(Form)\Lab5(Form)\obj\Debug\Lab5(Form).csprojAssemblyReference.cache
+C:\Users\Maksym Archybasov\Documents\Visual Studio 2017\Projects\Lab5(Form)\Lab5(Form)\obj\Debug\Lab5_Form_.Form1.resources
+C:\Users\Maksym Archybasov\Documents\Visual Studio 2017\Projects\Lab5(Form)\Lab5(Form)\obj\Debug\Lab5_Form_.Properties.Resources.resources
+C:\Users\Maksym Archybasov\Documents\Visual Studio 2017\Projects\Lab5(Form)\Lab5(Form)\obj\Debug\Lab5(Form).csproj.GenerateResource.cache
+C:\Users\Maksym Archybasov\Documents\Visual Studio 2017\Projects\Lab5(Form)\Lab5(Form)\obj\Debug\Lab5(Form).csproj.CoreCompileInputs.cache
+C:\Users\Maksym Archybasov\Documents\Visual Studio 2017\Projects\Lab5(Form)\Lab5(Form)\obj\Debug\Lab5(Form).exe
+C:\Users\Maksym Archybasov\Documents\Visual Studio 2017\Projects\Lab5(Form)\Lab5(Form)\obj\Debug\Lab5(Form).pdb
+C:\Users\Maksym Archybasov\Desktop\Основы Программирования (лабы)\Lab5(Form)\Lab5(Form)\bin\Debug\Lab5(Form).exe.config
+C:\Users\Maksym Archybasov\Desktop\Основы Программирования (лабы)\Lab5(Form)\Lab5(Form)\bin\Debug\Lab5(Form).exe
+C:\Users\Maksym Archybasov\Desktop\Основы Программирования (лабы)\Lab5(Form)\Lab5(Form)\bin\Debug\Lab5(Form).pdb
+C:\Users\Maksym Archybasov\Desktop\Основы Программирования (лабы)\Lab5(Form)\Lab5(Form)\obj\Debug\Lab5(Form).csprojAssemblyReference.cache
+C:\Users\Maksym Archybasov\Desktop\Основы Программирования (лабы)\Lab5(Form)\Lab5(Form)\obj\Debug\Lab5_Form_.Form1.resources
+C:\Users\Maksym Archybasov\Desktop\Основы Программирования (лабы)\Lab5(Form)\Lab5(Form)\obj\Debug\Lab5_Form_.Properties.Resources.resources
+C:\Users\Maksym Archybasov\Desktop\Основы Программирования (лабы)\Lab5(Form)\Lab5(Form)\obj\Debug\Lab5(Form).csproj.GenerateResource.cache
+C:\Users\Maksym Archybasov\Desktop\Основы Программирования (лабы)\Lab5(Form)\Lab5(Form)\obj\Debug\Lab5(Form).csproj.CoreCompileInputs.cache
+C:\Users\Maksym Archybasov\Desktop\Основы Программирования (лабы)\Lab5(Form)\Lab5(Form)\obj\Debug\Lab5(Form).exe
+C:\Users\Maksym Archybasov\Desktop\Основы Программирования (лабы)\Lab5(Form)\Lab5(Form)\obj\Debug\Lab5(Form).pdb
+D:\myFolder\KPI\КПІ-2020\Основи програмування\Основы Программирования (лабы)\Lab5(Form)\Lab5(Form)\bin\Debug\Lab5(Form).exe.config
+D:\myFolder\KPI\КПІ-2020\Основи програмування\Основы Программирования (лабы)\Lab5(Form)\Lab5(Form)\bin\Debug\Lab5(Form).exe
+D:\myFolder\KPI\КПІ-2020\Основи програмування\Основы Программирования (лабы)\Lab5(Form)\Lab5(Form)\bin\Debug\Lab5(Form).pdb
+D:\myFolder\KPI\КПІ-2020\Основи програмування\Основы Программирования (лабы)\Lab5(Form)\Lab5(Form)\obj\Debug\Lab5(Form).csprojAssemblyReference.cache
+D:\myFolder\KPI\КПІ-2020\Основи програмування\Основы Программирования (лабы)\Lab5(Form)\Lab5(Form)\obj\Debug\Lab5_Form_.Form1.resources
+D:\myFolder\KPI\КПІ-2020\Основи програмування\Основы Программирования (лабы)\Lab5(Form)\Lab5(Form)\obj\Debug\Lab5_Form_.Properties.Resources.resources
+D:\myFolder\KPI\КПІ-2020\Основи програмування\Основы Программирования (лабы)\Lab5(Form)\Lab5(Form)\obj\Debug\Lab5(Form).csproj.GenerateResource.cache
+D:\myFolder\KPI\КПІ-2020\Основи програмування\Основы Программирования (лабы)\Lab5(Form)\Lab5(Form)\obj\Debug\Lab5(Form).exe
+D:\myFolder\KPI\КПІ-2020\Основи програмування\Основы Программирования (лабы)\Lab5(Form)\Lab5(Form)\obj\Debug\Lab5(Form).pdb
+D:\projects\osnovy_program_lab_GrushkoN\Lab5(Form)\Lab5(Form)\bin\Debug\Lab5(Form).exe.config
+D:\projects\osnovy_program_lab_GrushkoN\Lab5(Form)\Lab5(Form)\bin\Debug\Lab5(Form).exe
+D:\projects\osnovy_program_lab_GrushkoN\Lab5(Form)\Lab5(Form)\bin\Debug\Lab5(Form).pdb
+D:\projects\osnovy_program_lab_GrushkoN\Lab5(Form)\Lab5(Form)\obj\Debug\Lab5(Form).csprojAssemblyReference.cache
+D:\projects\osnovy_program_lab_GrushkoN\Lab5(Form)\Lab5(Form)\obj\Debug\Lab5_Form_.Form1.resources
+D:\projects\osnovy_program_lab_GrushkoN\Lab5(Form)\Lab5(Form)\obj\Debug\Lab5_Form_.Properties.Resources.resources
+D:\projects\osnovy_program_lab_GrushkoN\Lab5(Form)\Lab5(Form)\obj\Debug\Lab5(Form).csproj.GenerateResource.cache
+D:\projects\osnovy_program_lab_GrushkoN\Lab5(Form)\Lab5(Form)\obj\Debug\Lab5(Form).exe
+D:\projects\osnovy_program_lab_GrushkoN\Lab5(Form)\Lab5(Form)\obj\Debug\Lab5(Form).pdb

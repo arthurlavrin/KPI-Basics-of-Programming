@@ -1,0 +1,20 @@
+C:\Users\Maksym Archybasov\Desktop\Основы Программирования (лабы)\Lab9\Lab7\bin\Debug\Lab7.exe.config
+C:\Users\Maksym Archybasov\Desktop\Основы Программирования (лабы)\Lab9\Lab7\bin\Debug\Lab7.exe
+C:\Users\Maksym Archybasov\Desktop\Основы Программирования (лабы)\Lab9\Lab7\bin\Debug\Lab7.pdb
+C:\Users\Maksym Archybasov\Desktop\Основы Программирования (лабы)\Lab9\Lab7\obj\Debug\Lab9.csprojAssemblyReference.cache
+C:\Users\Maksym Archybasov\Desktop\Основы Программирования (лабы)\Lab9\Lab7\obj\Debug\Lab7.Form1.resources
+C:\Users\Maksym Archybasov\Desktop\Основы Программирования (лабы)\Lab9\Lab7\obj\Debug\Lab7.Properties.Resources.resources
+C:\Users\Maksym Archybasov\Desktop\Основы Программирования (лабы)\Lab9\Lab7\obj\Debug\Lab9.csproj.GenerateResource.cache
+C:\Users\Maksym Archybasov\Desktop\Основы Программирования (лабы)\Lab9\Lab7\obj\Debug\Lab9.csproj.CoreCompileInputs.cache
+C:\Users\Maksym Archybasov\Desktop\Основы Программирования (лабы)\Lab9\Lab7\obj\Debug\Lab7.exe
+C:\Users\Maksym Archybasov\Desktop\Основы Программирования (лабы)\Lab9\Lab7\obj\Debug\Lab7.pdb
+C:\Users\Maksym Archybasov\Downloads\Основы Программирования (лабы  -9 вар)\Lab9\Lab7\bin\Debug\Lab9.exe.config
+C:\Users\Maksym Archybasov\Downloads\Основы Программирования (лабы  -9 вар)\Lab9\Lab7\bin\Debug\Lab9.exe
+C:\Users\Maksym Archybasov\Downloads\Основы Программирования (лабы  -9 вар)\Lab9\Lab7\bin\Debug\Lab9.pdb
+C:\Users\Maksym Archybasov\Downloads\Основы Программирования (лабы  -9 вар)\Lab9\Lab7\obj\Debug\Lab9.csprojAssemblyReference.cache
+C:\Users\Maksym Archybasov\Downloads\Основы Программирования (лабы  -9 вар)\Lab9\Lab7\obj\Debug\Lab7.Form1.resources
+C:\Users\Maksym Archybasov\Downloads\Основы Программирования (лабы  -9 вар)\Lab9\Lab7\obj\Debug\Lab9.Properties.Resources.resources
+C:\Users\Maksym Archybasov\Downloads\Основы Программирования (лабы  -9 вар)\Lab9\Lab7\obj\Debug\Lab9.csproj.GenerateResource.cache
+C:\Users\Maksym Archybasov\Downloads\Основы Программирования (лабы  -9 вар)\Lab9\Lab7\obj\Debug\Lab9.csproj.CoreCompileInputs.cache
+C:\Users\Maksym Archybasov\Downloads\Основы Программирования (лабы  -9 вар)\Lab9\Lab7\obj\Debug\Lab9.exe
+C:\Users\Maksym Archybasov\Downloads\Основы Программирования (лабы  -9 вар)\Lab9\Lab7\obj\Debug\Lab9.pdb

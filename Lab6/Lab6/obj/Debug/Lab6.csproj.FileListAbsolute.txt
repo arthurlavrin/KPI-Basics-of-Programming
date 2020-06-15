@@ -1,0 +1,19 @@
+C:\Users\Maksym Archybasov\Documents\Visual Studio 2017\Projects\Lab6\Lab6\bin\Debug\Lab6.exe.config
+C:\Users\Maksym Archybasov\Documents\Visual Studio 2017\Projects\Lab6\Lab6\bin\Debug\Lab6.exe
+C:\Users\Maksym Archybasov\Documents\Visual Studio 2017\Projects\Lab6\Lab6\bin\Debug\Lab6.pdb
+C:\Users\Maksym Archybasov\Documents\Visual Studio 2017\Projects\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\Maksym Archybasov\Documents\Visual Studio 2017\Projects\Lab6\Lab6\obj\Debug\Lab6.exe
+C:\Users\Maksym Archybasov\Documents\Visual Studio 2017\Projects\Lab6\Lab6\obj\Debug\Lab6.pdb
+C:\Users\Maksym Archybasov\Downloads\Основы Программирования (лабы  -9 вар)\Lab6\Lab6\bin\Debug\Lab6.exe.config
+C:\Users\Maksym Archybasov\Downloads\Основы Программирования (лабы  -9 вар)\Lab6\Lab6\bin\Debug\Lab6.exe
+C:\Users\Maksym Archybasov\Downloads\Основы Программирования (лабы  -9 вар)\Lab6\Lab6\bin\Debug\Lab6.pdb
+C:\Users\Maksym Archybasov\Downloads\Основы Программирования (лабы  -9 вар)\Lab6\Lab6\obj\Debug\Lab6.csprojAssemblyReference.cache
+C:\Users\Maksym Archybasov\Downloads\Основы Программирования (лабы  -9 вар)\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\Maksym Archybasov\Downloads\Основы Программирования (лабы  -9 вар)\Lab6\Lab6\obj\Debug\Lab6.exe
+C:\Users\Maksym Archybasov\Downloads\Основы Программирования (лабы  -9 вар)\Lab6\Lab6\obj\Debug\Lab6.pdb
+D:\myFolder\KPI\КПІ-2020\Основи програмування\Основы Программирования (лабы  -9 вар)\Основы Программирования (лабы  -9 вар)\Lab6\Lab6\bin\Debug\Lab6.exe.config
+D:\myFolder\KPI\КПІ-2020\Основи програмування\Основы Программирования (лабы  -9 вар)\Основы Программирования (лабы  -9 вар)\Lab6\Lab6\bin\Debug\Lab6.exe
+D:\myFolder\KPI\КПІ-2020\Основи програмування\Основы Программирования (лабы  -9 вар)\Основы Программирования (лабы  -9 вар)\Lab6\Lab6\bin\Debug\Lab6.pdb
+D:\myFolder\KPI\КПІ-2020\Основи програмування\Основы Программирования (лабы  -9 вар)\Основы Программирования (лабы  -9 вар)\Lab6\Lab6\obj\Debug\Lab6.csprojAssemblyReference.cache
+D:\myFolder\KPI\КПІ-2020\Основи програмування\Основы Программирования (лабы  -9 вар)\Основы Программирования (лабы  -9 вар)\Lab6\Lab6\obj\Debug\Lab6.exe
+D:\myFolder\KPI\КПІ-2020\Основи програмування\Основы Программирования (лабы  -9 вар)\Основы Программирования (лабы  -9 вар)\Lab6\Lab6\obj\Debug\Lab6.pdb

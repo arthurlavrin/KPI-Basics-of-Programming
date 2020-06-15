@@ -1,0 +1,38 @@
+C:\Users\Maksym Archybasov\Documents\Visual Studio 2017\Projects\Lab8\Lab7\obj\Debug\Lab8.csprojAssemblyReference.cache
+C:\Users\Maksym Archybasov\Documents\Visual Studio 2017\Projects\Lab8\Lab7\obj\Debug\Lab8.csproj.GenerateResource.cache
+C:\Users\Maksym Archybasov\Documents\Visual Studio 2017\Projects\Lab8\Lab7\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\Maksym Archybasov\Documents\Visual Studio 2017\Projects\Lab8\Lab7\bin\Debug\Lab8.exe.config
+C:\Users\Maksym Archybasov\Documents\Visual Studio 2017\Projects\Lab8\Lab7\bin\Debug\Lab8.exe
+C:\Users\Maksym Archybasov\Documents\Visual Studio 2017\Projects\Lab8\Lab7\bin\Debug\Lab8.pdb
+C:\Users\Maksym Archybasov\Documents\Visual Studio 2017\Projects\Lab8\Lab7\obj\Debug\Lab8.Form1.resources
+C:\Users\Maksym Archybasov\Documents\Visual Studio 2017\Projects\Lab8\Lab7\obj\Debug\Lab8.Properties.Resources.resources
+C:\Users\Maksym Archybasov\Documents\Visual Studio 2017\Projects\Lab8\Lab7\obj\Debug\Lab8.exe
+C:\Users\Maksym Archybasov\Documents\Visual Studio 2017\Projects\Lab8\Lab7\obj\Debug\Lab8.pdb
+C:\Users\Maksym Archybasov\Desktop\Lab8 - Copy\Lab7\bin\Debug\Lab8.exe.config
+C:\Users\Maksym Archybasov\Desktop\Lab8 - Copy\Lab7\bin\Debug\Lab8.exe
+C:\Users\Maksym Archybasov\Desktop\Lab8 - Copy\Lab7\bin\Debug\Lab8.pdb
+C:\Users\Maksym Archybasov\Desktop\Lab8 - Copy\Lab7\obj\Debug\Lab8.csprojAssemblyReference.cache
+C:\Users\Maksym Archybasov\Desktop\Lab8 - Copy\Lab7\obj\Debug\Lab8.Form1.resources
+C:\Users\Maksym Archybasov\Desktop\Lab8 - Copy\Lab7\obj\Debug\Lab8.Properties.Resources.resources
+C:\Users\Maksym Archybasov\Desktop\Lab8 - Copy\Lab7\obj\Debug\Lab8.csproj.GenerateResource.cache
+C:\Users\Maksym Archybasov\Desktop\Lab8 - Copy\Lab7\obj\Debug\Lab8.exe
+C:\Users\Maksym Archybasov\Desktop\Lab8 - Copy\Lab7\obj\Debug\Lab8.pdb
+C:\Users\Maksym Archybasov\Downloads\Основы Программирования (лабы)\Lab8\Lab7\bin\Debug\Lab8.exe.config
+C:\Users\Maksym Archybasov\Downloads\Основы Программирования (лабы)\Lab8\Lab7\bin\Debug\Lab8.exe
+C:\Users\Maksym Archybasov\Downloads\Основы Программирования (лабы)\Lab8\Lab7\bin\Debug\Lab8.pdb
+C:\Users\Maksym Archybasov\Downloads\Основы Программирования (лабы)\Lab8\Lab7\obj\Debug\Lab8.Form1.resources
+C:\Users\Maksym Archybasov\Downloads\Основы Программирования (лабы)\Lab8\Lab7\obj\Debug\Lab8.Properties.Resources.resources
+C:\Users\Maksym Archybasov\Downloads\Основы Программирования (лабы)\Lab8\Lab7\obj\Debug\Lab8.csproj.GenerateResource.cache
+C:\Users\Maksym Archybasov\Downloads\Основы Программирования (лабы)\Lab8\Lab7\obj\Debug\Lab8.exe
+C:\Users\Maksym Archybasov\Downloads\Основы Программирования (лабы)\Lab8\Lab7\obj\Debug\Lab8.pdb
+C:\Users\Maksym Archybasov\Downloads\Основы Программирования (лабы)\Lab8\Lab7\obj\Debug\Lab8.csprojAssemblyReference.cache
+C:\Users\Maksym Archybasov\Downloads\Основы Программирования (лабы  -9 вар)\Lab8\Lab7\bin\Debug\Lab8.exe.config
+C:\Users\Maksym Archybasov\Downloads\Основы Программирования (лабы  -9 вар)\Lab8\Lab7\bin\Debug\Lab8.exe
+C:\Users\Maksym Archybasov\Downloads\Основы Программирования (лабы  -9 вар)\Lab8\Lab7\bin\Debug\Lab8.pdb
+C:\Users\Maksym Archybasov\Downloads\Основы Программирования (лабы  -9 вар)\Lab8\Lab7\obj\Debug\Lab8.csprojAssemblyReference.cache
+C:\Users\Maksym Archybasov\Downloads\Основы Программирования (лабы  -9 вар)\Lab8\Lab7\obj\Debug\Lab8.Form1.resources
+C:\Users\Maksym Archybasov\Downloads\Основы Программирования (лабы  -9 вар)\Lab8\Lab7\obj\Debug\Lab8.Properties.Resources.resources
+C:\Users\Maksym Archybasov\Downloads\Основы Программирования (лабы  -9 вар)\Lab8\Lab7\obj\Debug\Lab8.csproj.GenerateResource.cache
+C:\Users\Maksym Archybasov\Downloads\Основы Программирования (лабы  -9 вар)\Lab8\Lab7\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\Maksym Archybasov\Downloads\Основы Программирования (лабы  -9 вар)\Lab8\Lab7\obj\Debug\Lab8.exe
+C:\Users\Maksym Archybasov\Downloads\Основы Программирования (лабы  -9 вар)\Lab8\Lab7\obj\Debug\Lab8.pdb
